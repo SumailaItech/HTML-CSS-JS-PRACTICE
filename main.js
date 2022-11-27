@@ -27,7 +27,7 @@ window.addEventListener("load", function () {
 const navbar = document.querySelector("[data-navbar]");
 const navTogglers = document.querySelectorAll("[data-nav-toggler]");
 const navbarLinks = document.querySelectorAll("[data-nav-link]");
-const overlay = document.querySelector("[data-overlay]");
+const overlay = document.querySelector("[data-overlay]")
 
 
 const toggleNavbar = function () {
